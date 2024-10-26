@@ -1,6 +1,6 @@
 # Beyond the Halfpipe: An Analytical View of Athlete Performance and Sponsorship Trends
 
-## To Analyze the relationship between U.S. halfpipe skiing team athletes' performance, sponsorship trends, social media following, and training locations
+## To analyze the relationship between U.S. halfpipe skiing team athletes' performance, sponsorship trends, social media following, and training locations
 
 ## Data:
 ### 1. FIS Points List
