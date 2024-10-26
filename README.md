@@ -21,7 +21,7 @@
 
 ## Installation:
 ### Prerequisites
-1. **Install Python**: Ensure you have Python 3.8 or later installed. Download it from [python.org](https://www.python.org/downloads/).
+1. **Install Python (Python 3.8 or later)
 2. **Install Jupyter Notebook**
 
 ## Article: [](
