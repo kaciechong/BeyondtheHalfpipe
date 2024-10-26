@@ -13,7 +13,7 @@
 ### 3. US Ski Team Sponsorships
 - **Source**: Web scraped data from the [US Ski Team website](https://www.usskiandsnowboard.org/)
   
-### 4. Ski Resorts Dataset
+### 4. Ski Resorts Details Dataset
 - **Source**: [Kaggle Ski Resorts Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/ski-resorts)
 
 ### 5. Global Ski Resort Rankings Dataset
