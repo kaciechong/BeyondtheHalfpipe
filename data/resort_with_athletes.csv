@@ -1,0 +1,81 @@
+Resort,HPpoints,HPpos,state_data,region_data,elevation_top_m,number_of_slopes,annual_snowfall_cm,Price,Beginner slopes,Intermediate slopes,Difficult slopes,Nightskiing,Summer skiing
+Aspen Mountain,834.7,4.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,1000.0,1.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,17.75,97.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,180.95,30.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,29.6,82.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,31.05,79.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,59.9,40.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,114.25,43.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,31.85,78.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Aspen Mountain,3.85,144.0,Colorado,Rocky Mountain,3418.0,57.0,762.0,124.0,0.0,49.0,54.0,No,No
+Crested Butte,399.6,15.0,Colorado,Rocky Mountain,3620.0,3.0,700.0,98.0,27.0,69.0,25.0,No,No
+Killington,8.95,79.0,Vermont,Northeast,1293.0,68.0,560.0,90.0,37.0,43.0,46.0,No,No
+Killington,2.58,156.0,Vermont,Northeast,1293.0,68.0,560.0,90.0,37.0,43.0,46.0,No,No
+Mammoth Mountain,18.0,67.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,39.75,50.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,39.15,69.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,362.85,13.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,29.0,54.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,13.1,111.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,29.75,81.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,0.06,114.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,0.94,180.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,18.15,95.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mammoth Mountain,22.55,59.0,California,Pacific Southwest,3369.0,50.0,1000.0,114.0,18.0,48.0,22.0,No,No
+Mt. Bachelor,826.4,6.0,Oregon,Pacific Northwest,2763.0,34.0,983.0,79.0,15.0,25.0,60.0,No,No
+Mt. Bachelor,15.55,71.0,Oregon,Pacific Northwest,2763.0,34.0,983.0,79.0,15.0,25.0,60.0,No,No
+Mt. Bachelor,5.05,88.0,Oregon,Pacific Northwest,2763.0,34.0,983.0,79.0,15.0,25.0,60.0,No,No
+Mt. Bachelor,18.75,94.0,Oregon,Pacific Northwest,2763.0,34.0,983.0,79.0,15.0,25.0,60.0,No,No
+Mt. Bachelor,9.9,115.0,Oregon,Pacific Northwest,2763.0,34.0,983.0,79.0,15.0,25.0,60.0,No,No
+Mt. Bachelor,52.85,42.0,Oregon,Pacific Northwest,2763.0,34.0,983.0,79.0,15.0,25.0,60.0,No,No
+Northstar California,8.2,120.0,California,Pacific Southwest,2624.0,27.0,900.0,120.0,25.0,45.0,27.0,No,No
+Okemo,2.22,94.0,Vermont,Northeast,1019.0,51.0,350.0,86.0,22.0,26.0,22.0,Yes,No
+Okemo,4.68,89.0,Vermont,Northeast,1019.0,51.0,350.0,86.0,22.0,26.0,22.0,Yes,No
+Okemo,5.34,134.0,Vermont,Northeast,1019.0,51.0,350.0,86.0,22.0,26.0,22.0,Yes,No
+Palisades Tahoe,72.7,34.0,California,Pacific Southwest,2745.0,43.0,1194.0,102.0,25.0,45.0,30.0,Yes,No
+Palisades Tahoe,8.2,121.0,California,Pacific Southwest,2745.0,43.0,1194.0,102.0,25.0,45.0,30.0,Yes,No
+Palisades Tahoe,85.5,31.0,California,Pacific Southwest,2745.0,43.0,1194.0,102.0,25.0,45.0,30.0,Yes,No
+Palisades Tahoe,70.35,56.0,California,Pacific Southwest,2745.0,43.0,1194.0,102.0,25.0,45.0,30.0,Yes,No
+Park City,11.5,77.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,125.55,39.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,29.55,83.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,0.01,241.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,15.57,70.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,19.82,62.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,4.5,140.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,67.35,37.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,0.48,196.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,18.25,66.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,0.18,213.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Park City,52.1,43.0,Utah,Rocky Mountain,3048.0,213.0,900.0,97.0,27.0,152.0,71.0,Yes,No
+Beaver Creek,123.5,40.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,41.45,66.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,1.68,167.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,26.0,57.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,3.54,148.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,2.13,162.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,0.78,186.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,1.05,178.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,32.4,52.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,108.85,26.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Beaver Creek,2.68,155.0,Colorado,Rocky Mountain,3488.0,47.0,752.0,141.0,28.0,64.0,57.0,No,No
+Sun Valley Resort,4.8,139.0,Idaho,Pacific Northwest,1560.0,3.0,400.0,107.0,35.0,40.0,17.0,No,No
+Sun Valley Resort,2.3,160.0,Idaho,Pacific Northwest,1560.0,3.0,400.0,107.0,35.0,40.0,17.0,No,No
+Sun Valley Resort,0.12,216.0,Idaho,Pacific Northwest,1560.0,3.0,400.0,107.0,35.0,40.0,17.0,No,No
+Sun Valley Resort,0.06,226.0,Idaho,Pacific Northwest,1560.0,3.0,400.0,107.0,35.0,40.0,17.0,No,No
+Copper Mountain,5.2,136.0,Colorado,Rocky Mountain,3792.0,126.0,625.0,89.0,30.0,40.0,56.0,No,No
+Copper Mountain,1.26,174.0,Colorado,Rocky Mountain,3792.0,126.0,625.0,89.0,30.0,40.0,56.0,No,No
+Copper Mountain,2.22,95.0,Colorado,Rocky Mountain,3792.0,126.0,625.0,89.0,30.0,40.0,56.0,No,No
+Copper Mountain,47.5,63.0,Colorado,Rocky Mountain,3792.0,126.0,625.0,89.0,30.0,40.0,56.0,No,No
+Copper Mountain,0.78,186.0,Colorado,Rocky Mountain,3792.0,126.0,625.0,89.0,30.0,40.0,56.0,No,No
+Copper Mountain,141.35,37.0,Colorado,Rocky Mountain,3792.0,126.0,625.0,89.0,30.0,40.0,56.0,No,No
+Telluride,7.5,81.0,Colorado,Rocky Mountain,3815.0,88.0,760.0,110.0,6.0,51.0,29.0,No,No
+Vail,543.1,9.0,Colorado,Rocky Mountain,3527.0,150.0,750.0,127.0,57.0,84.0,93.0,No,No
+Vail,65.25,38.0,Colorado,Rocky Mountain,3527.0,150.0,750.0,127.0,57.0,84.0,93.0,No,No
+Vail,16.44,101.0,Colorado,Rocky Mountain,3527.0,150.0,750.0,127.0,57.0,84.0,93.0,No,No
+Winter Park Resort,113.6,44.0,Colorado,Rocky Mountain,3676.0,39.0,760.0,119.0,11.0,53.0,79.0,No,No
+Winter Park Resort,1000.0,2.0,Colorado,Rocky Mountain,3676.0,39.0,760.0,119.0,11.0,53.0,79.0,No,No
+Winter Park Resort,606.5,8.0,Colorado,Rocky Mountain,3676.0,39.0,760.0,119.0,11.0,53.0,79.0,No,No
+Winter Park Resort,180.15,31.0,Colorado,Rocky Mountain,3676.0,39.0,760.0,119.0,11.0,53.0,79.0,No,No
+Mt. Hood Meadows,0.26,207.0,Oregon,Pacific Northwest,2225.0,50.0,1200.0,76.0,13.0,45.0,31.0,Yes,No
