@@ -10,7 +10,7 @@ images: Any images or visualizations generated
 
 ## Data: 
 1. FIS Points List
-- [FIS Points Lists](https://www.fis-ski.com/DB/freestyle-freeski/freeski/fis-points-lists.html?mi=menu-fis-points)
+- Source: [FIS Points Lists](https://www.fis-ski.com/DB/freestyle-freeski/freeski/fis-points-lists.html?mi=menu-fis-points)
 - Version (Download CSV): 13th Freestyle/Freeski FIS Points List 2023/2024
 
 2. Instagram Following Count
@@ -29,13 +29,13 @@ images: Any images or visualizations generated
 1. **Install Python (Python 3.8 or later)
 2. **Install Jupyter Notebook 
 3. ***Install necessary libraries:
-- pandas: For data manipulation and analysis
-- seaborn: For data visualization
-- matplotlib: For creating static, animated, and interactive visualizations
-- numpy: For numerical and array operations
-- selenium: For web scraping and browser automation
-- webdriver-manager: For managing web drivers used by Selenium
-- beautifulsoup4: For parsing HTML and XML documents in web scraping
+  - pandas: For data manipulation and analysis
+  - seaborn: For data visualization
+  - matplotlib: For creating static, animated, and interactive visualizations
+  - numpy: For numerical and array operations
+  - selenium: For web scraping and browser automation
+  - webdriver-manager: For managing web drivers used by Selenium
+  - beautifulsoup4: For parsing HTML and XML documents in web scraping
   
 ## Article: [](
   
