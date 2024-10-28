@@ -10,7 +10,7 @@
      
 ### 3. `Clean_FIS_data_for_all_US.ipynb`
    - **Purpose**: Cleans and processes FIS data for all US skiers.
-   - 
+     
 ### 4. `Clean_FIS_data_for_top_5.ipynb`
    - **Purpose**: Cleans and processes FIS data for top 5 US skiers for each gender.
 
