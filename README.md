@@ -10,25 +10,25 @@
 
 ## Data: 
 1. FIS Points List
-- Source: [FIS Points Lists](https://www.fis-ski.com/DB/freestyle-freeski/freeski/fis-points-lists.html?mi=menu-fis-points)
-- Version (Download CSV): 13th Freestyle/Freeski FIS Points List 2023/2024
+  - Source: [FIS Points Lists](https://www.fis-ski.com/DB/freestyle-freeski/freeski/fis-points-lists.html?mi=menu-fis-points)
+  - Version (Download CSV): 13th Freestyle/Freeski FIS Points List 2023/2024
 
 2. Instagram Following Count
-- Source: Web scraped data from Instagram accounts
+  - Source: Web scraped data from Instagram accounts
 
 3. US Ski Team Sponsorships
-- Source: Web scraped data from the [US Ski Team website](https://www.usskiandsnowboard.org/)
+  - Source: Web scraped data from the [US Ski Team website](https://www.usskiandsnowboard.org/)
   
 4. Ski Resorts Details Dataset (saved as ski_resorts_kaggle1.csv)
-- Source: [Kaggle Ski Resorts Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/ski-resorts)
+  - Source: [Kaggle Ski Resorts Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/ski-resorts)
 
 5. Ski Resort Rankings Dataset (saved as ski_resorts_kaggle.csv)
-- Source: [Kaggle Global Ski Resort Rankings Dataset](https://www.kaggle.com/datasets/fhellander/global-ski-resort-rankings-dataset)
+  - Source: [Kaggle Global Ski Resort Rankings Dataset](https://www.kaggle.com/datasets/fhellander/global-ski-resort-rankings-dataset)
 
 ## Prerequisites:
-1. **Install Python (Python 3.8 or later)
-2. **Install Jupyter Notebook 
-3. ***Install necessary libraries:
+1. Install Python (Python 3.8 or later)
+2. Install Jupyter Notebook 
+3. Install necessary libraries:
   - pandas: For data manipulation and analysis
   - seaborn: For data visualization
   - matplotlib: For creating static, animated, and interactive visualizations
@@ -37,6 +37,4 @@
   - webdriver-manager: For managing web drivers used by Selenium
   - beautifulsoup4: For parsing HTML and XML documents in web scraping
   
-## Report: [](
-  
-## Presentation: [](
+## [Final Analysis Report](https://docs.google.com/document/d/1OyDAUbQ95NGCDwfE_1DZYsrQE_jZyYLjQYgPsFtmwiQ/edit?usp=sharing)
