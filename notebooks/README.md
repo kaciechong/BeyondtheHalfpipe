@@ -1,4 +1,6 @@
-# Notebooks Overview: contains Jupyter notebooks used to process, clean, and analyze data for a comprehensive view of US team halfpipe skiers, ski resorts, social media presence, and sponsorships.
+# Notebooks Overview: 
+
+* Contains Jupyter notebooks used to process, clean, and analyze data for a comprehensive view of US team halfpipe skiers, ski resorts, social media presence, and sponsorships.
 
 ## Data Preparation:
 
