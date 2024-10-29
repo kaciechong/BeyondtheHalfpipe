@@ -1,5 +1,4 @@
-# Beyond the Halfpipe: An Analytical View of Athlete Performance, Sponsorship Trends, and Training Ski Resorts
-
+# Beyond the Halfpipe
 * Purpose: To analyze the relationship between U.S. halfpipe skiing team athletes' performance, sponsorship trends, social media following, and training locations
 
 ## Folder Structure: 
