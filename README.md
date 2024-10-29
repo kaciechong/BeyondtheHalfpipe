@@ -36,4 +36,4 @@
   - webdriver-manager: For managing web drivers used by Selenium
   - beautifulsoup4: For parsing HTML and XML documents in web scraping
   
-## [Final Analysis Report](https://docs.google.com/document/d/1OyDAUbQ95NGCDwfE_1DZYsrQE_jZyYLjQYgPsFtmwiQ/edit?usp=sharing)
+## [Final Analysis Report]([https://docs.google.com/document/d/1OyDAUbQ95NGCDwfE_1DZYsrQE_jZyYLjQYgPsFtmwiQ/edit?usp=sharing](https://www.canva.com/design/DAGU4zGElpk/wKc5LEXMjfvl60hEkwiqiw/edit?utm_content=DAGU4zGElpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
