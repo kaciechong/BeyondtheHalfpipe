@@ -3,25 +3,8 @@
 
 ## Folder Structure: 
 1. notebooks: Contains Jupyter Notebooks for data cleaning, analysis, and web scraping -- all work is done on Jupyter Notebook
-2. data: Contains CSV files of data collected and datasets created through cleaning and preparation
+2. data: Contains CSV files of datasets used and datasets created through cleaning and preparation
 3. models: Contains data visualizations generated
-
-## Data: 
-1. FIS Points List
-  - Source: [FIS Points Lists](https://www.fis-ski.com/DB/freestyle-freeski/freeski/fis-points-lists.html?mi=menu-fis-points)
-  - Version (Download CSV): 13th Freestyle/Freeski FIS Points List 2023/2024
-
-2. Instagram Following Count
-  - Source: Web scraped data from Instagram accounts
-
-3. US Ski Team Sponsorships
-  - Source: Web scraped data from the [US Ski Team website](https://www.usskiandsnowboard.org/)
-  
-4. Ski Resorts Details Dataset (saved as ski_resorts_kaggle1.csv)
-  - Source: [Kaggle Ski Resorts Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/ski-resorts)
-
-5. Ski Resort Rankings Dataset (saved as ski_resorts_kaggle.csv)
-  - Source: [Kaggle Global Ski Resort Rankings Dataset](https://www.kaggle.com/datasets/fhellander/global-ski-resort-rankings-dataset)
 
 ## Prerequisites:
 1. Install Python (Python 3.8 or later)
