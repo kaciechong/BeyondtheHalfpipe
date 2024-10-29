@@ -2,10 +2,22 @@
 
 * Contains a collection of csv files of data collected and datasets created through cleaning and preparation. 
 
-## Datasets used:
-- **FIS_Data.csv**: Contains data from International Ski Federation (FIS)
-- **ski_resorts_kaggle.csv**: Contains information about ski resorts sourced from Kaggle.
-- **ski_resorts_kaggle1.csv**: Contains information about ski resorts sourced from Kaggle.
+## Data used: 
+1. FIS Points List
+  - Source: [FIS Points Lists](https://www.fis-ski.com/DB/freestyle-freeski/freeski/fis-points-lists.html?mi=menu-fis-points)
+  - Version (Download CSV): 13th Freestyle/Freeski FIS Points List 2023/2024
+
+2. Instagram Following Count
+  - Source: Web scraped data from Instagram accounts
+
+3. US Ski Team Sponsorships
+  - Source: Web scraped data from the [US Ski Team website](https://www.usskiandsnowboard.org/)
+  
+4. Ski Resorts Details Dataset (saved as ski_resorts_kaggle1.csv)
+  - Source: [Kaggle Ski Resorts Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/ski-resorts)
+
+5. Ski Resort Rankings Dataset (saved as ski_resorts_kaggle.csv)
+  - Source: [Kaggle Global Ski Resort Rankings Dataset](https://www.kaggle.com/datasets/fhellander/global-ski-resort-rankings-dataset)
 
 ## Datasets created after data preparation:
 - **all_US_skiers.csv**: Contains data of all U.S. skiers with relevant data.
