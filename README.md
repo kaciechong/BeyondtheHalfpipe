@@ -5,7 +5,6 @@
 1. notebooks: Contains Jupyter Notebooks for data cleaning, analysis, and web scraping -- all work is done on Jupyter Notebook
 2. data: Contains CSV files of data collected and datasets created through cleaning and preparation
 3. models: Contains data visualizations generated
-4. reports: Contains final reports summarizing data analysis
 
 ## Data: 
 1. FIS Points List
