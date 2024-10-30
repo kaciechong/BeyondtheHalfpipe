@@ -1,7 +1,7 @@
 # Beyond the Halfpipe
 * Purpose: To analyze the relationship between U.S. halfpipe skiing team athletes' performance, sponsorship trends, social media following, and training locations
   
-### [Final Analysis Report](https://www.canva.com/design/DAGU4zGElpk/wKc5LEXMjfvl60hEkwiqiw/edit?utm_content=DAGU4zGElpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### Take a look at my: [Final Analysis Report](https://www.canva.com/design/DAGU4zGElpk/wKc5LEXMjfvl60hEkwiqiw/edit?utm_content=DAGU4zGElpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Folder Structure: 
 1. notebooks: Contains Jupyter Notebooks for data cleaning, analysis, and web scraping -- all work is done on Jupyter Notebook
