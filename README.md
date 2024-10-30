@@ -19,4 +19,5 @@
   - selenium: For web scraping and browser automation
   - webdriver-manager: For managing web drivers used by Selenium
   - beautifulsoup4: For parsing HTML and XML documents in web scraping
-
+    
+## Reflection:
