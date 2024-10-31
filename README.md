@@ -1,6 +1,6 @@
 # Beyond the Halfpipe
 
-### Dive into the complete analysis with visualizations, insights, and reccomendations in the [Final Analysis Report](https://www.canva.com/design/DAGU4zGElpk/wKc5LEXMjfvl60hEkwiqiw/edit?utm_content=DAGU4zGElpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
+### Dive into the complete analysis with visualizations, insights, and recommendations: [Final Analysis Report](https://www.canva.com/design/DAGU4zGElpk/wKc5LEXMjfvl60hEkwiqiw/edit?utm_content=DAGU4zGElpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
 
 ## Reflection:
 This experience has been both challenging and rewarding, giving me the chance to apply a variety of technical skills while diving into a topic I’m deeply passionate about. As a lifelong fan of skiing and extreme sports, this project resonated with me on a personal level, especially when examining gender disparities in the sport. Discovering that female skiers often score higher compared to their male peers yet receive fewer sponsorships and followers on social media was eye-opening; as a woman who once dreamed of competing in skiing, seeing these talented athletes excel despite the challenges reinforces my commitment to using data to spotlight and address inequalities. This project not only helped me build technical skills in data science but also allowed me to creatively present insights and propose recommendations that reflect both the data and my love for skiing.
