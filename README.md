@@ -1,5 +1,4 @@
 # Beyond the Halfpipe
-* Purpose: To analyze U.S. halfpipe skiing athletes, exploring correlations between genders, performance metrics, sponsorships, social media following, and training location characteristics
 
 ### Dive into the complete analysis with visualizations, insights, and reccomendations in the [Final Analysis Report](https://www.canva.com/design/DAGU4zGElpk/wKc5LEXMjfvl60hEkwiqiw/edit?utm_content=DAGU4zGElpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)!
 
